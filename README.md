@@ -3,7 +3,7 @@ No Future Z80 game for the Sinclair ZX Spectrum 48K
 High level report:
 
 Loading:
-Type “L” for “Load” to appear, then keep your
+Type “J” for “Load” to appear, then keep your
 finger on the “Symbol Shift” key and press “P”
 twice. This should display LOAD “” on the screen.
 Then press the Enter key and the computer  will
