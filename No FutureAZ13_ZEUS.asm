@@ -545,7 +545,7 @@ GAMEPLAYSTART:
 ; Set alien head initial status
                         LD (ALIEN_HEAD_ENABLED),A       ; Initial alien head status ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-                        LD A,18                         ;
+                       ; LD A,18                         ;
                         LD (WAVE_COUNT),A               ; Reset wave counter
 
                         LD A,9                          ; A=9 to set meters
